@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm AKSHAN SHETTY</h1>
-<h3 align="center">A passionate about Web Developer</h3>
+<h3 align="center">A passionate about Learning Skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshanshetty0099&label=Profile%20views&color=0e75b6&style=flat" alt="akshanshetty0099" /> </p>
 
