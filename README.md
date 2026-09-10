@@ -24,4 +24,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshanshetty0099&show_icons=true&locale=en" alt="akshanshetty0099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshanshetty0099&" alt="akshanshetty0099" /></p>
+<!-- Animated contributions snake (requires GitHub Action: see setup below) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mandar099/Mandar099/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mandar099/Mandar099/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Mandar099/Mandar099/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
