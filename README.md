@@ -1,4 +1,4 @@
-<img width="1024" height="450" alt="image" src="https://github.com/user-attachments/assets/70fcf2ed-0665-4f5f-9a17-641c9b39ac95" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/70fcf2ed-0665-4f5f-9a17-641c9b39ac95" />
 >
 <h1 align="center">Hi 👋, I'm AKSHAN SHETTY</h1>
 <h3 align="center">I am passionate about Learning Skills</h3>
