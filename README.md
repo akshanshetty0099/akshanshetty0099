@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm AKSHAN SHETTY</h1>
 <h3 align="center">I am passionate about Learning Skills</h3>
 <h1 align="center">
