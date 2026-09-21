@@ -28,8 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshanshetty0099&show_icons=true&locale=en&layout=compact" alt="akshanshetty0099" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshanshetty0099&show_icons=true&locale=en" alt="akshanshetty0099" /></p>
-
 <a href="https://github.com/akshanshetty0099">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshanshetty0099&theme=dark" alt="GitHub Streak Stats" />
 </a>
