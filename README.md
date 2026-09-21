@@ -32,6 +32,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshanshetty0099&" alt="akshanshetty0099" /></p>
 
+<a href="https://github.com/akshanshetty0099">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshanshetty0099&theme=dark" alt="GitHub Streak Stats" />
+</a>
 <!-- Animated contributions snake (requires GitHub Action: see setup below) -->
 <p align="center">
   <picture>
