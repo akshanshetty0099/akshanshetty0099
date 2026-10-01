@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app//></a> </p>
 
 
-<h3 align="left">Social Media:</h3>
+<h3 align="left">Social Media:</h3 colour="white">
 <p align="left">
 <a href="https://twitter.com/akshan shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshan shetty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshan shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshan shetty" height="30" width="40" /></a>
